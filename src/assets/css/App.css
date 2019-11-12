@@ -1,0 +1,119 @@
+.App{
+  padding: 5px;
+}
+#main1{  
+  background: #0808ce; 
+  border-radius: 20px;
+  color:white; 
+  padding: 20px 16px;
+}
+ul {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+li {
+  display: inline-block;
+}
+.floatRight{
+  float: right;
+}
+.right{
+  text-align: right;
+}
+.traffic {
+  margin-right: 13px;
+  margin-top: -3px;
+}
+.push {
+  margin-top: 6px;
+}
+#main1 .digit {
+  font-size: 28px;
+  font-weight: bold;
+}
+#main1 .currency {
+  margin-left: 10px;
+  font-size: 35px;
+}
+#main1 .balance {
+  font-weight: bold;
+}
+.btc {
+  color: #D2691E;
+}
+.percent {
+  font-weight: bold;
+  letter-spacing: 3px;
+  font-size: 20px;
+}
+.percent1 {
+  font-size: 13px;
+}
+.percent3 {
+  font-size: 13px;
+  color:green;
+}
+.box3 {
+  background:  white;
+  padding: 10px 31px 10px 11px;
+  border-radius: 15px;
+}
+.percent2 {
+  font-weight: bold;
+  letter-spacing: 0px;
+  font-size: 19px;
+}
+.box {
+  border-left: solid 2px#D2691E;
+  background: linear-gradient(to bottom, #00F 17%, #0000CD 100%);
+  padding: 10px 58px 10px 11px;
+}
+.box1 {
+  border-left: solid 2px #D2691E;
+  background: white;
+  padding: 10px 58px 10px 11px;
+  border-radius: 15px;
+}
+#main1 select {
+  padding: 3px 18px;
+  background:#0808ce;
+  color:white;
+  border-radius: 9px;
+  border: solid 1px white;
+}
+
+#main2 {
+  padding: 27px 20px;
+  background:#f5f5f5;
+  border-radius: 20px;
+}
+.color1{
+  color:#D2691E;
+}
+.color2{
+  color:purple;
+}
+.color3{
+  color:#1E90FF;
+}
+.color4{
+  color:green;
+}
+.per1 {
+  font-size: 13px;
+  color:#D2691E;
+}
+.per2 {
+  font-size: 13px;
+  color:purple;
+}
+.per3 {
+  font-size: 13px;
+  color:#1E90FF;
+}
+.per4{
+  font-size: 13px;
+  color:green;
+}
